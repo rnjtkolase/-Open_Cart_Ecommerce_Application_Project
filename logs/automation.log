@@ -1,0 +1,106 @@
+18:12:07.442 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.442 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.442 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.462 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.473 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.473 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.473 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.473 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:12:07.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:12:07.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+18:12:07.489 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://customschemas.google.com/relationships/workbookmetadata
+18:12:07.505 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:12:07.625 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:12:08.346 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:12:08.346 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:12:08.676 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:12:18.885 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:12:18.953 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:12:19.444 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:12:19.444 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:12:19.723 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:12:29.745 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:12:29.750 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:12:29.838 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:12:30.421 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:12:30.421 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:12:30.684 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:12:40.702 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:12:40.702 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:12:40.791 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:12:41.216 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:12:41.216 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:12:41.487 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:12:51.528 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:12:51.528 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:12:51.589 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:12:52.374 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:12:52.374 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:12:52.615 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:02.765 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:02.835 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:03.278 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:03.278 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:03.557 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:13.592 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:13:13.592 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:13.703 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:14.250 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:14.250 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:14.514 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:24.575 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:13:24.575 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:24.666 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:25.518 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:25.518 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:25.765 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:35.787 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:13:35.787 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:35.860 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:36.289 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:36.289 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:36.539 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:46.576 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:13:46.576 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:46.639 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:47.059 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:47.059 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:47.321 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:13:57.376 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:13:57.376 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:13:57.464 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:13:57.964 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:13:57.964 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:13:58.223 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:14:08.267 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:14:08.267 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:14:08.349 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:14:08.846 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:14:08.848 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:14:09.096 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:14:19.163 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:14:19.163 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
+18:14:19.243 [main] INFO  testCases.TC_003_LoginDDT - -clicked On MyAccountLink-
+18:14:21.474 [main] INFO  testCases.TC_003_LoginDDT - -clicked On LoginLink-
+18:14:21.474 [main] INFO  testCases.TC_003_LoginDDT - -Providing Login Details-
+18:14:21.733 [main] INFO  testCases.TC_003_LoginDDT - -Clicked on Login Btn-
+18:14:28.199 [main] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003_LoginDDT******
+18:14:28.199 [main] INFO  testCases.TC_003_LoginDDT - *****Starting TC_003_LoginDDT*****
